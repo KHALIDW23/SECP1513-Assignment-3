@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![Speaker Profile]1768711323784.jpg
+![Speaker Profile](https://raw.githubusercontent.com/KHALIDW23/SECP1513-Assignment-3/main/1768711323784.jpg)
+
 *TS. HJ. ABDUL ALIM BIN ABDUL MUTTALIB - Head of Technology and Innovation, Serunai Commerce Sdn Bhd*
 
 ### 📅 Session Details
