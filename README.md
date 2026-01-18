@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Speaker Profile]
+![Speaker Profile]1768711323784.jpg
 *TS. HJ. ABDUL ALIM BIN ABDUL MUTTALIB - Head of Technology and Innovation, Serunai Commerce Sdn Bhd*
 
 ### 📅 Session Details
